@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/guest-services/guest-services.iml" filepath="$PROJECT_DIR$/guest-services/guest-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservices-practice.iml" filepath="$PROJECT_DIR$/microservices-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/reservation-services/reservation-services.iml" filepath="$PROJECT_DIR$/reservation-services/reservation-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-reservation-services/room-reservation-services.iml" filepath="$PROJECT_DIR$/room-reservation-services/room-reservation-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/room-services/room-services.iml" filepath="$PROJECT_DIR$/room-services/room-services.iml" />
     </modules>
   </component>

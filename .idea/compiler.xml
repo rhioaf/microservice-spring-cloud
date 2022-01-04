@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-server" />
         <module name="room-services" />
+        <module name="room-reservation-services" />
         <module name="eureka-server" />
         <module name="guest-services" />
         <module name="reservation-services" />
@@ -19,6 +20,8 @@
       <module name="guest-services" target="1.8" />
       <module name="mcs" target="1.8" />
       <module name="reservation-services" target="1.8" />
+      <module name="room-reservation-service" target="1.8" />
+      <module name="room-reservation-services" target="1.8" />
       <module name="room-services" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -29,6 +32,8 @@
       <module name="guest-services" options="-parameters" />
       <module name="mcs" options="-parameters" />
       <module name="reservation-services" options="-parameters" />
+      <module name="room-reservation-service" options="-parameters" />
+      <module name="room-reservation-services" options="-parameters" />
       <module name="room-services" options="-parameters" />
     </option>
   </component>
